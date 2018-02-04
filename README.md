@@ -12,7 +12,7 @@ You are going to write program that takes 3 numbers from the command line (i.e. 
 
 There is no code to copy for the assignment. You get to do it all! Don't forget to provide proper Javadoc documentation.
 
-We are going to do this exercise by writing the object that solves the problem first (in a source file called TicketSeller.java) and then testing it using code we write into **SumFun.java**. Using the techniques shown on the web page titled [How to Start Every Project in this Class](http://crowd.cs.sbcc.edu:7990/projects/CS105F2016/repos/allan.knight/browse/HowToStartEveryProject.md) to create a source file called **SumFun.java**. This is where your code will go. 
+We are going to do this exercise by writing the object that solves the problem first (in a source file called TicketSeller.java) and then testing it using code we write into **SumFun.java**. Using the techniques shown on the web page titled [How to Start Every Project in this Class](http://209.129.49.15:7990/projects/CS105F2016/repos/allan.knight/browse/HowToStartEveryProject.md) to create a source file called **SumFun.java**. This is where your code will go. 
 
 ### Testing Your Code
 
